@@ -1,0 +1,18 @@
+{
+  "name": "weather",
+  "description": "weather-ai",
+  "main": "gulpfile.js",
+  "authors": [
+    "kate",
+    "shyamal"
+  ],
+  "license": "ISC",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
