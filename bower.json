@@ -1,11 +1,7 @@
 {
-  "name": "weather",
-  "description": "weather-ai",
+  "name": "tamagotchi",
+  "description": "tamagotchi game",
   "main": "gulpfile.js",
-  "authors": [
-    "kate",
-    "shyamal"
-  ],
   "license": "ISC",
   "homepage": "",
   "ignore": [
@@ -14,5 +10,13 @@
     "bower_components",
     "test",
     "tests"
+  ],
+  "dependencies": {
+    "jquery": "^3.2.1",
+    "bootstrap": "^3.3.7",
+    "moment": "^2.18.1"
+  },
+  "authors": [
+    "Kate Byars <katebyars5@gmail.com>"
   ]
 }
